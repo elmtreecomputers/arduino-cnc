@@ -1,5 +1,7 @@
+
 Steps to use GitHub
 1. Clone a repo
 2. Create /edit file
 3. Commit the file
 4. Push the file
+5. Edit file online
